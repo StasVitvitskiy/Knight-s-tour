@@ -1,0 +1,3 @@
+/Users/stanislavvitvitskiy/CLionProjects/Knight/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stanislavvitvitskiy/CLionProjects/Knight/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stanislavvitvitskiy/CLionProjects/Knight/cmake-build-debug/CMakeFiles/Knight.dir
